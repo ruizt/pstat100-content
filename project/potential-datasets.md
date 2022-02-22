@@ -2,7 +2,7 @@
 
 Again, you are welcome and encouraged to use data from any source, including data from the class meeting the requirements stated in the project description (though you should choose a different direction if so).
 
-Here are a few trustworthy sources with interesting data. This list is also in the project description page:
+Here are a few trustworthy sources with interesting data:
 
 * [World Bank Open Data](https://data.worldbank.org/) contains a wealth of usually well-organized datasets comprising country indicators. I've used a variety of data from this source in class examples and labs.
 * [NOAA NCEI](https://www.ncdc.noaa.gov/) and the [EPA](https://www.epa.gov/data) publish open data related to climate and environment.
