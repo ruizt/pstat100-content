@@ -36,7 +36,7 @@ In addition to the resources above, below are some additional datasets or tools 
     * [https://data.oecd.org/searchresults/?r=+f/type/datasets](https://data.oecd.org/searchresults/?r=+f/type/datasets) (economic databases)
 * Language
     * [https://www.english-corpora.org/](https://www.english-corpora.org/) (English corpora)
-    * [http://corpus.byu.edu/coca/](http://corpus.byu.edu/coca/) (Corpus of spoken and written American English)
+    * [http://corpus.byu.edu/coca/](http://corpus.byu.edu/coca/) (corpus of spoken and written American English)
 * Science
     * [https://www.usno.navy.mil/USNO/astronomical-applications/data-services](https://www.usno.navy.mil/USNO/astronomical-applications/data-services) (oceanographic, geological, and astronomical data)
 
