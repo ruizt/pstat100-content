@@ -16,7 +16,7 @@ You might also find inspiration and potential data sources from [Our World in Da
 Lastly, there are some repositories out there like the [UCI machine learning repository](https://archive.ics.uci.edu/ml/index.php), though these often provide pretty minimal background about available data.
 
 ### Additional Potential Resources
-In addition to the resources above, below are some additional datasets or tools you can look into for your dataset. They may be a bit more 'untidy,' but can be good if you have a specific interest in mind.
+In addition to the resources above, below are some additional datasets or tools you can look into for your project. They may be a bit more 'untidy,' but can be good if you have a specific interest in mind.
 
 * Google’s Dataset Search
     * [https://datasetsearch.research.google.com/](https://datasetsearch.research.google.com/)
