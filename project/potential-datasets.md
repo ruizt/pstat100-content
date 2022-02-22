@@ -39,5 +39,8 @@ In addition to the resources above, below are some additional datasets or tools 
     * [http://corpus.byu.edu/coca/](http://corpus.byu.edu/coca/) (corpus of spoken and written American English)
 * Science
     * [https://www.usno.navy.mil/USNO/astronomical-applications/data-services](https://www.usno.navy.mil/USNO/astronomical-applications/data-services) (oceanographic, geological, and astronomical data)
+* Sports
+   * https://sports-statistics.com/sports-data/sports-data-sets-for-data-modeling-visualization-predictions-machine-learning/
+   * https://www.sports-reference.com/
 
 Feel free to reach out to your ULAs Annie or Dante on Nectir if you have any additional dataset resources you would like to share!
