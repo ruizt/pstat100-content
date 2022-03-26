@@ -28,20 +28,22 @@ Overview of data science key concepts and the use of tools for data retrieval, a
 
 ### Schedule
 
-Week | Topic | Assignments due (by F 11:59pm)
+Week | Topic | Lab | Homework | Project
 ---|---|---
 0 | Data science life cycle | L0
 1 | Tidy data | L1
-2 | Sampling and bias | L2, H1
-3 | Statistical graphics | L3, MP1
-4 | Kernel density estimation | L4, H2
-5 | Principal components | L5, MP2
-6 | Simple regression | H3
-7 | Multiple regression | L6, CP1
-8 | Case study and developing 'presentables' | H4
+2 | Sampling and bias | L2 | H1
+3 | Statistical graphics | L3 | | MP1
+4 | Kernel density estimation | L4 | H2
+5 | Principal components | L5 | | MP2
+6 | Simple regression | | H3
+7 | Multiple regression | L6 | | CP1
+8 | Case study and developing 'presentables' | | H4
 9 | Closing |
 ---|---|---
-10 | Finals | CP2
+10 | Finals | | | CP2
+
+All assignments are due F 11:59pm in the week indicated.
 
 *L: lab
 *H: homework
