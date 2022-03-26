@@ -29,7 +29,7 @@ Overview of data science key concepts and the use of tools for data retrieval, a
 ### Schedule
 
 Week | Topic | Lab | Homework | Project
----|---|---
+---|---|---|---|---
 0 | Data science life cycle | L0
 1 | Tidy data | L1
 2 | Sampling and bias | L2 | H1
@@ -40,7 +40,6 @@ Week | Topic | Lab | Homework | Project
 7 | Multiple regression | L6 | | CP1
 8 | Case study and developing 'presentables' | | H4
 9 | Closing |
----|---|---
 10 | Finals | | | CP2
 
 All assignments are due F 11:59pm in the week indicated.
