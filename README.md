@@ -17,5 +17,3 @@ Assignment tests were developed and implemented by Priyanka Banerjee during Fall
 Annie Huang and Dante Coletta contributed a list of suggested project datasets.
 
 All data files were downloaded from publicly available sources; citations are provided where possible.
-
-### Datasets
