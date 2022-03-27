@@ -4,9 +4,13 @@ This repository contains course files distributed to students enrolled in PSTAT1
 
 ## Repository information
 
+This repository contains primarily Jupyter notebooks; in addition, some data files (typically .csv or .zip), figures or images, and markdown files are included. All files are deployed from a private repository containing development versions.
+
 ### Contributors 
 
-All course materials were developed in Spring 2021 by Trevor Ruiz. Lab0 and Lab1 were adapted from materials written by Alex Franks and Kate Kharitonova for a pilot version of the course offered as INT15 in Spring 2020.
+All course materials were developed in Spring 2021 by Trevor Ruiz. 
+
+Lab0 and Lab1 were adapted from materials written by Alex Franks and Kate Kharitonova for a pilot version of the course offered as INT15 in Spring 2020.
 
 Assignment tests were developed and implemented by Priyanka Banerjee during Fall 2021 and Winter 2022.
 
