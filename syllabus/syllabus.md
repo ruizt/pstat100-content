@@ -1,6 +1,6 @@
-# Syllabus
+# Data Science Concepts and Analysis
 
-PSTAT100 is a hands-on introduction to data science intended for intermediate-level students from any discipline with some exposure to probability and basic computing skills, but few or no upper-division courses in statistics or computer science. The course introduces central concepts in statistics -- such as sampling variation, uncertainty, and inference -- in an applied setting together with techniques for data exploration and analysis. Course activities model standard data science workflow practices by example, and successful students acquire programming skills, project management skills, and subject exposure that will serve them well in upper-division courses as well as in independent research or projects.
+Data Science Concepts and Analysis (PSTAT100) is a hands-on introduction to data science intended for intermediate-level students from any discipline with some exposure to probability and basic computing skills, but few or no upper-division courses in statistics or computer science. The course introduces central concepts in statistics -- such as sampling variation, uncertainty, and inference -- in an applied setting together with techniques for data exploration and analysis. Course activities model standard data science workflow practices by example, and successful students acquire programming skills, project management skills, and subject exposure that will serve them well in upper-division courses as well as in independent research or projects.
 
 ## Learning outcomes
 
@@ -8,25 +8,35 @@ Successful students will establish foundational data science skills: critical as
 
 These skills will be discussed in depth during course lectures; students will practice them through lab activities, homework assignments, and project work.
 
-## Catalog desciption and prerequisites
+## UCSB catalog listing
 
-Overview of data science key concepts and the use of tools for data retrieval, analysis, visualization, and reproducible research. Topics include an introduction to inference and prediction, principles of measurement, missing data, and notions of causality, statistical "traps", and concepts in data ethics and privacy. Case studies will illustrate the importance of domain knowledge. Prerequisites: Probability and Statistics I (PSTAT 120A), Linear Algebra (MATH 4A), and prior experience with Python or another programming language (CMPSC 9 or CMPSC 16). Credit units: 4.
+### Description
 
-## Course staff and roles
+Overview of data science key concepts and the use of tools for data retrieval, analysis, visualization, and reproducible research. Topics include an introduction to inference and prediction, principles of measurement, missing data, and notions of causality, statistical "traps", and concepts in data ethics and privacy. Case studies will illustrate the importance of domain knowledge. 
 
-Instructor: Trevor Ruiz
-Teaching assistants: Blythe King and Jeff Wu
-Learning assistants: Annie Huang, Dante Coletta, and Priyanka Banerjee
+### Prerequisites
+
+- Probability and Statistics I (PSTAT 120A)
+- Linear Algebra (MATH 4A)
+- Prior experience with Python or another programming language (CMPSC 9 or CMPSC 16). Credit units: 4.
+
+## Spring 2022 information
+
+### Course staff and roles
+
+- Instructor: Trevor Ruiz
+- Teaching assistants: Blythe King and Jeff Wu
+- Learning assistants: Annie Huang, Dante Coletta, and Priyanka Banerjee
 
 The instructor is primarily responsible for delivering lectures and course administration. The teaching assistants are primarily responsible for providing lab instruction and managing assessments and course pages. The learning assistants are primarily responsible for providing assignment support to students. All staff hold regular office hours on a weekly basis open to all enrolled students.
+
+### Meetings
 
 In Spring 2022, lectures are offered asynchronously online; sections are held as scheduled on GOLD; and office hours are held via Zoom.
 
 ## Materials
 
-The course GauchoSpace page will link to all course content and resources; this is accessible to enrolled students automatically via [https://gauchospace.ucsb.edu/](https://gauchospace.ucsb.edu/) using their UCSB credentials. 
-
-The course will progress according to the following weekly pattern: 
+The course GauchoSpace page will link to all course content and resources. Content will be released and collected according to the following weekly pattern: 
 
 - **Mondays** at 8am : week's content released.
 - **Fridays** at 11:59pm : assignment(s) due.
@@ -50,6 +60,8 @@ Students are encouraged to install software needed to open, edit, and run notebo
 - packages utilized in course materials (primarily numpy, pandas, altair, and scikit-learn).
 
 Managing package installations will require some (straightforward) use of the package installer `pip` or `pip3` in the command line to retrieve/install packages from the Python Package Index repository. Documentation for specific packages (or a Google search) will indicate the appropriate `pip` command.
+
+### GitHub
 
 For students familiar with (or wishing to become familiar with) GitHub, course materials are distributed from the public repository [https://github.com/ucsb-stds-courses/pstat100-content](https://github.com/ucsb-stds-courses/pstat100-content). Students can learn how to 'fork' the repository (make a copy) and 'clone' the fork (create local copies of repository files on a personal machine) in the [GitHub quickstart documentation](https://docs.github.com/en/get-started/quickstart/fork-a-repo). There's not much sense in forking the course repo without also installing python and jupyter, as the latter will be needed to open most repository files locally. *Students working primarily locally from a repo fork should use Git to commit and push local changes to their fork as they complete coursework; **failure to do so could result in partial or complete loss of work***.
 
