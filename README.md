@@ -4,7 +4,7 @@ Repository for course files distributed to students enrolled in PSTAT100 at UCSB
 
 ## Repository information
 
-Course files are primarily Jupyter notebooks; in addition, some data files (typically .csv or .zip), figures or images, and markdown files are included. All files are deployed from a private repository containing development versions.
+Course files are primarily Jupyter notebooks; in addition, some data files (ordinarily .csv or .zip), figures or images, and markdown files are included. All files are deployed from a private repository containing development versions.
 
 ### Contributors and credits
 
