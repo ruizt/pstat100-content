@@ -1,6 +1,6 @@
 # Data science concepts and analysis (public)
 
-Repository for course files distributed to students enrolled in PSTAT100 at UCSB; primarily these comprise lecture slides and assignment files.
+Repository for course files distributed to students enrolled in PSTAT100 at UCSB; primarily lecture slides and assignment files.
 
 ## Repository information
 
