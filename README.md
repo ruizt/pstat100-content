@@ -1,6 +1,6 @@
 # Data science concepts and analysis (public)
 
-Repository for course files distributed to students enrolled in PSTAT100 at UCSB; primarily lecture slides and assignment files.
+Repository for course files distributed to students enrolled in PSTAT100 at UCSB.
 
 ## Repository information
 
@@ -8,7 +8,7 @@ Course files are primarily Jupyter notebooks; in addition, some data files (ordi
 
 ### Contributors and credits
 
-All course materials were developed in Spring 2021 by Trevor Ruiz. 
+All course materials were developed in Spring 2021 and revised in Spring 2023 by Trevor Ruiz. 
 
 Lab0 and Lab1 were adapted from materials written by Alex Franks and Kate Kharitonova for a pilot version of the course offered as INT15 in Spring 2020.
 
