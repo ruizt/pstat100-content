@@ -5,8 +5,11 @@ Repository for course files distributed to students enrolled in PSTAT100 at UCSB
 ## Dependencies
 
 Python 3.11+
+
 Quarto 1.3+
+
 Python libraries:
+
     - numpy 1.24.3
     - pandas 1.5.3
     - altair 5.0.1
