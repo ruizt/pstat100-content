@@ -1,4 +1,4 @@
-# Data science concepts and analysis (public)
+# Data science concepts and analysis (course content)
 
 Repository for course files distributed to students enrolled in PSTAT100 at UCSB.
 
